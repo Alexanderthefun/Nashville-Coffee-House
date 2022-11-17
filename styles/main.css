@@ -1,0 +1,21 @@
+/* <!DOCTYPE css> */
+
+.pageHeader {
+    text-align: center;
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 1em;
+
+
+}
+
+.shop {
+    border: 1px dotted black;
+    padding: 1;
+    flex-basis: 30%;
+}
+
